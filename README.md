@@ -1,6 +1,6 @@
 # Internet Usage Monitor App
 
-This Python application monitors live internet usage and displays network statistics using tkinter for GUI, matplotlib for plotting charts, and psutil for system monitoring.
+This Python application monitors live internet usage and displays network statistics using tkinter for GUI, matplotlib for plotting charts, and psutil for system monitoring FOR LINUX.
 
 ## Features
 
